@@ -1,0 +1,33 @@
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\bin\Debug\2.Ödev.exe
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\bin\Debug\2.Ödev.pdb
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\obj\Debug\2.Ödev.csprojResolveAssemblyReference.cache
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\obj\Debug\_2.Ödev.Properties.Resources.resources
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\obj\Debug\2.Ödev.csproj.GenerateResource.Cache
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\obj\Debug\2.Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\obj\Debug\2.Ödev.exe
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\obj\Debug\2.Ödev.pdb
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\obj\Debug\_2.Ödev.Form2.resources
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\obj\Debug\_2.Ödev.Form1.resources
+C:\Users\Burak Bayram\source\repos\2.Ödev\2.Ödev\obj\Debug\_2.Ödev.Form3.resources
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\bin\Debug\2.Ödev.exe
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\bin\Debug\2.Ödev.pdb
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.csprojResolveAssemblyReference.cache
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\_2.Ödev.Form1.resources
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\_2.Ödev.Form2.resources
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\_2.Ödev.Form3.resources
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\_2.Ödev.Properties.Resources.resources
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.csproj.GenerateResource.Cache
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.exe
+C:\Users\Burak Bayram\Desktop\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.pdb
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\bin\Debug\2.Ödev.exe
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\bin\Debug\2.Ödev.pdb
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.csprojAssemblyReference.cache
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\_2.Ödev.Form1.resources
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\_2.Ödev.Form2.resources
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\_2.Ödev.Form3.resources
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\_2.Ödev.Properties.Resources.resources
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.csproj.GenerateResource.cache
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.csproj.CoreCompileInputs.cache
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.exe
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\2.Ödev\B171210076_2.ODEV\B171210076_2\2.Ödev\obj\Debug\2.Ödev.pdb
